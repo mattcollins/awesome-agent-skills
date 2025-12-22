@@ -1,30 +1,31 @@
-# Awesome Agent Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🎯 Awesome Agent Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of useful resources for **Agent Skills** - a lightweight, open format for extending AI agent capabilities with specialized knowledge and workflows.
+> 🚀 Your ultimate guide to **Agent Skills** - the open format that supercharges AI agents with specialized knowledge and workflows!
 
-## 🌟 What are Agent Skills?
+## 💡 What Are Agent Skills?
 
-A **Skill** is a directory containing a `SKILL.md` file (with metadata and instructions) and optional scripts/resources. This format allows agents to discover and load capabilities on demand, a concept known as **"progressive disclosure"**.
+**Agent Skills** are like superpowers for your AI agents! Each skill is a simple folder containing a `SKILL.md` file with instructions and optional scripts/resources. The magic? Agents discover and load these capabilities **on-demand** through "progressive disclosure" - meaning they only load what they need, when they need it.
 
-Think of skills as "plugins" or "knowledge packs" that your agent can read to learn how to perform specific tasks—like editing a PDF, analyzing data, or managing a project—without needing that knowledge hardcoded into its system prompt.
+**Think of it as**: Installing apps on your phone, but for AI agents! 📱
 
-[👉 Learn more at agentskills.io](https://agentskills.io)
+👉 **New to Agent Skills?** Start here: [agentskills.io](https://agentskills.io)
 
-## 📖 Contents
+## 📚 What's Inside?
 
-- [🧩 Skill Collections](#-skill-collections)
-- [🛠️ Tools & Ecosystem](#-tools--ecosystem)
-- [📚 Essential Reading](#-essential-reading)
-- [📺 Videos](#-videos)
-- [🔬 Research & Papers](#-research--papers)
-- [💬 Join the Community](#-join-the-community)
-- [🤝 How to Contribute](#-how-to-contribute)
+- [🎁 Ready-to-Use Skills](#-ready-to-use-skills) - Browse collections of pre-built skills
+- [🛠️ Tools & Platforms](#️-tools--platforms) - Discover tools that support Agent Skills
+- [📖 Learn & Explore](#-learn--explore) - Articles, guides, and documentation
+- [🔬 Research Papers](#-research-papers) - Academic research on Agent Skills
+- [💬 Join the Community](#-join-the-community) - Connect with other builders
+- [🤝 Contributing](#-contributing) - Help make this resource even better!
 
-## 🧩 Skill Collections
+## 🎁 Ready-to-Use Skills
 
-Ready-to-use skills to supercharge your agents.
+**Jump-start your agent's capabilities!** Browse these curated collections of skills you can use right away.
 
-- [anthropics/skills](https://github.com/anthropics/skills) - 🏆 **Official** collection from Anthropic (document editing, data analysis, etc.).
+### Official & Featured Collections
+
+- [anthropics/skills](https://github.com/anthropics/skills) - Official collection of example skills from Anthropic (document editing, data analysis, etc.).
 - [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) - 50+ verified skills for Claude Code and Claude.ai.
 - [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) - Skills to enhance capabilities in specialized areas.
 - [ponderous-dustiness314/awesome-claude-skills](https://github.com/ponderous-dustiness314/awesome-claude-skills) - Essential skills for document editing, data analysis, and project management.
@@ -32,16 +33,11 @@ Ready-to-use skills to supercharge your agents.
 - [lifegenieai/claude-skills](https://github.com/lifegenieai/claude-skills) - Skills for voice AI, image generation, and web dev.
 - [hikanner/agent-skills](https://github.com/hikanner/agent-skills) - Curated collection of Claude Agent Skills.
 - [GuDaStudio/skills](https://github.com/GuDaStudio/skills) - Skills for collaboration between Claude and other agents.
-- [bencium/bencium-claude-code-design-skill](https://github.com/bencium/bencium-claude-code-design-skill) - Comprehensive UX Designer skill.
-- [Johnny2x2/Agent-Skills](https://github.com/Johnny2x2/Agent-Skills) - A library of Anthropic Agent Skills.
-- [dennytosp/nextjs-claude-design-skill](https://github.com/dennytosp/nextjs-claude-design-skill) - Next.js UX Designer skill.
-- [jakedahn/pomodoro](https://github.com/jakedahn/pomodoro) - Reference implementation of the 'System Skill Pattern' (CLI + SKILL.md + Database).
-- [Thomas-TyTech/browser-skill](https://github.com/Thomas-TyTech/browser-skill) - Token-efficient `SKILL.md` bundle for controlling Chrome.
-- [fabioc-aloha/spotify-skill](https://github.com/fabioc-aloha/spotify-skill) - 🎵 Spotify API integration skill.
+- [fabioc-aloha/spotify-skill](https://github.com/fabioc-aloha/spotify-skill) - Spotify API integration skill.
 - [kylehughes/the-unofficial-swift-concurrency-migration-skill](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) - Swift Concurrency Migration Guide as a Skill.
-- [gmickel/sheets-cli](https://github.com/gmickel/sheets-cli) - 📊 Google Sheets CLI with Agent Skills.
-- [tubone24/midi-agent-skill](https://github.com/tubone24/midi-agent-skill) - 🎹 Generate MIDI files from text.
-- [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - 🌐 Give your agent a web browser.
+- [gmickel/sheets-cli](https://github.com/gmickel/sheets-cli) - Google Sheets CLI with Agent Skills.
+- [tubone24/midi-agent-skill](https://github.com/tubone24/midi-agent-skill) - Generate MIDI files from text.
+- [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - Give your agent a web browser.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - Skills for context engineering.
 - [gotalab/skillport](https://github.com/gotalab/skillport) - Bring Agent Skills to any AI Agent via CLI or MCP.
 - [formulahendry/agent-skill-code-runner](https://github.com/formulahendry/agent-skill-code-runner) - Run code snippets in multiple languages.
@@ -50,59 +46,80 @@ Ready-to-use skills to supercharge your agents.
 - [gradion-ai/freeact-skills](https://github.com/gradion-ai/freeact-skills) - Predefined skills for the freeact agent library.
 - [DougTrajano/pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) - Pydantic AI with Agent Skills.
 
-## 🛠️ Tools & Ecosystem
+## 🛠️ Tools & Platforms
 
-Platforms and tools that support the Agent Skills specification.
+**Build with confidence!** These platforms and tools officially support the Agent Skills specification.
 
-- [OpenCode](https://opencode.ai/) - AI development tool supporting Agent Skills.
-- [Cursor](https://cursor.com/) - AI code editor supporting Agent Skills.
-- [Amp](https://ampcode.com/) - AI coding assistant.
-- [Letta](https://www.letta.com/) - Platform for building stateful LLM agents.
-- [Goose](https://block.github.io/goose/) - Open source AI agent.
-- [Claude Code](https://claude.ai/code) - Anthropic's coding tool with native support.
-- [openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents.
-- [vibe-tools](https://github.com/eastlondoner/vibe-tools) - Give Cursor Agent an AI Team and Advanced Skills.
-- [IntentKit](https://github.com/crestalnetwork/intentkit) - Framework for AI agents equipped with powerful skills.
-- [Agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI Function Calling Framework.
-- [gemini-cli-skillz](https://github.com/intellectronica/gemini-cli-skillz) - Gemini CLI extension enabling Anthropic-style Agent Skills.
-- [devskills](https://github.com/mk0e/devskills) - MCP server to bring Agent Skills to any MCP-compatible coding agent.
-- [baml-anthropic-skills-integration](https://github.com/snedea/baml-anthropic-skills-integration) - Integration between BAML and Anthropic Agent Skills.
-- [agentskills-mcp](https://github.com/zouyingcao/agentskills-mcp) - MCP server implementation for Agent Skills.
-- [cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - Workflow studio for ClaudeCode with skill support.
-- [skillcheck](https://github.com/agentigy/skillcheck) - Security scanner for `SKILL.md` files.
-- [cognitive-toolworks](https://github.com/williamzujkowski/cognitive-toolworks) - Generates agent artifacts like `SKILL.md` using LLM.
-- [skill-optimization](https://github.com/instavm/skill-optimization) - DSPy optimization techniques for `SKILL.md` files.
-- [AI-anything](https://github.com/yfe404/AI-anything) - Transforms YouTube videos into `SKILL.md` files.
-- [system-skills-pattern-template](https://github.com/m3lander/system-skills-pattern-template) - Template for building System Skills (CLI + SKILL.md + Database).
+### 🎨 IDEs & Code Editors
 
-## 📚 Essential Reading
+- [OpenCode](https://opencode.ai/) - 🎯 AI development tool with built-in Agent Skills support
+- [Cursor](https://cursor.com/) - ⚡ AI-powered code editor with native skills integration
+- [Amp](https://ampcode.com/) - 🚀 Next-gen AI coding assistant
+- [Claude Code](https://claude.ai/code) - 🤖 Anthropic's coding tool with first-class skills support
 
-- [Equipping agents for the real world with Agent Skills](https://anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - Anthropic Engineering Blog.
-- [What are skills?](https://support.claude.com/en/articles/12512176-what-are-skills) - Claude Support.
-- [Using skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude) - Guide on using skills.
-- [How to create custom skills](https://support.claude.com/en/articles/12512198-creating-custom-skills) - Guide on authoring skills.
-- [Skills API Quickstart](https://docs.claude.com/en/api/skills-guide#creating-a-skill) - Technical documentation.
-- [Stream Coding Methodology](https://github.com/frmoretto/stream-coding) - Documentation-first methodology including official `SKILL.md` for Claude/Cursor.
+### 🤖 AI Agent Platforms
 
-## 📺 Videos
+- [Letta](https://www.letta.com/) - 🧠 Build stateful LLM agents with memory
+- [Goose](https://block.github.io/goose/) - 🦆 Open source AI agent framework
 
-*Note: As this is a new standard, video content is emerging. Check back soon for tutorials and demos!*
+### 🔧 Developer Tools & Libraries
 
-- [Anthropic Agent Skills Announcement](https://anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - (Blog post with embedded concepts).
+- [openskills](https://github.com/numman-ali/openskills) - 📦 Universal skills loader for any AI agent
+- [vibe-tools](https://github.com/eastlondoner/vibe-tools) - 👥 Give your agent an AI team with advanced skills
+- [IntentKit](https://github.com/crestalnetwork/intentkit) - 🎭 Framework for intent-driven AI agents
+- [Agentica](https://github.com/wrtnlabs/agentica) - 📘 TypeScript AI function calling framework
 
-## 🔬 Research & Papers
+## 📖 Learn & Explore
 
-Academic research related to Agent Skills and progressive disclosure.
+**Get up to speed fast!** Essential reading for understanding and building with Agent Skills.
 
-- [A survey of agent interoperability protocols](https://arxiv.org/abs/2505.02279) (2025) - Discusses protocols like MCP and 'Agent Cards'.
-- [The Effect of Progressive Disclosure in the Transparency of Large Language Models](https://link.springer.com/chapter/10.1007/978-3-031-82633-7_17) (2024) - Research on progressive disclosure.
-- [Disclosures & disclaimers: Investigating the impact of transparency disclosures](https://ojs.aaai.org/index.php/HCOMP/article/view/31597) (2024) - Investigates transparency disclosures.
+### 🎓 Getting Started
+
+- [What are skills?](https://support.claude.com/en/articles/12512176-what-are-skills) - 📝 Perfect introduction for beginners
+- [Using skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude) - 🚀 Quick start guide
+
+### 🏗️ Building Skills
+
+- [How to create custom skills](https://support.claude.com/en/articles/12512198-creating-custom-skills) - ✍️ Step-by-step authoring guide
+- [Skills API Quickstart](https://docs.claude.com/en/api/skills-guide#creating-a-skill) - 💻 Technical documentation
+
+### 📰 Featured Articles
+
+- [Equipping agents for the real world with Agent Skills](https://anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - 🎯 The original announcement from Anthropic Engineering
+
+## 🔬 Research Papers
+
+**Dive deeper into the science!** Academic research exploring Agent Skills and related concepts.
+
+- 📄 [A survey of agent interoperability protocols](https://arxiv.org/abs/2505.02279) (2025) - Comprehensive look at MCP, Agent Cards, and more
+- 📄 [The Effect of Progressive Disclosure in the Transparency of Large Language Models](https://link.springer.com/chapter/10.1007/978-3-031-82633-7_17) (2024) - How progressive disclosure affects LLM transparency
+- 📄 [Disclosures & disclaimers: Investigating the impact of transparency disclosures](https://ojs.aaai.org/index.php/HCOMP/article/view/31597) (2024) - Impact study on agent transparency
 
 ## 💬 Join the Community
 
-- [Agent Skills GitHub Discussions](https://github.com/agentskills/agentskills/discussions) - Official specification discussions.
-- [Anthropic Skills GitHub Issues](https://github.com/anthropics/skills/issues) - Issues for example skills.
+**Connect with fellow builders!** Get help, share ideas, and stay updated.
 
-## 🤝 How to Contribute
+- 💭 [Agent Skills GitHub Discussions](https://github.com/agentskills/agentskills/discussions) - Official specification discussions
+- 🐛 [Anthropic Skills GitHub Issues](https://github.com/anthropics/skills/issues) - Report issues and request features
+- ⭐ **Star this repo** to stay updated with the latest resources!
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+## 🤝 Contributing
+
+**Help us make this the best Agent Skills resource!** We welcome contributions of all kinds:
+
+- 🔗 Add new skills, tools, or articles
+- 📝 Improve documentation
+- 🐛 Fix broken links
+- 💡 Suggest new sections
+
+Please read our [contribution guidelines](CONTRIBUTING.md) before submitting.
+
+---
+
+<div align="center">
+
+**Found this useful? Give it a ⭐ and share it with others!**
+
+*Built with ❤️ by the Agent Skills community*
+
+</div>
