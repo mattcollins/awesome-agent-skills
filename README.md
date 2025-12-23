@@ -57,47 +57,47 @@ This architecture delivers:
 
 **Multi-skill repositories** with diverse capabilities:
 
-- 🏢 [Official collection from Anthropic (document editing, data analysis, etc.)](https://github.com/anthropics/skills)
-- ⭐ [50+ verified skills for Claude Code and Claude.ai](https://github.com/karanb192/awesome-claude-skills)
-- 🎯 [Skills for specialized capabilities](https://github.com/shajith003/awesome-claude-skills)
-- 📊 [Document editing, data analysis, and project management](https://github.com/ponderous-dustiness314/awesome-claude-skills)
-- ✨ [Productivity-focused skills](https://github.com/jacintarefined358/awesome-claude-skills)
-- 🎨 [Voice AI, image generation, and web development](https://github.com/lifegenieai/claude-skills)
-- 🗂️ [Curated Claude Agent Skills collection](https://github.com/hikanner/agent-skills)
-- 🤝 [Multi-agent collaboration skills](https://github.com/GuDaStudio/skills)
-- 🔮 [Skills for DSPy framework](https://github.com/OmidZamani/dspy-skills)
-- 🎬 [Freeact agent library skills](https://github.com/gradion-ai/freeact-skills)
-- 🐍 [Pydantic AI integration](https://github.com/DougTrajano/pydantic-ai-skills)
+- [🏢 Official collection from Anthropic (document editing, data analysis, etc.)](https://github.com/anthropics/skills){:target="_blank"}
+- [⭐ 50+ verified skills for Claude Code and Claude.ai](https://github.com/karanb192/awesome-claude-skills){:target="_blank"}
+- [🗂️ Curated Claude Agent Skills collection](https://github.com/hikanner/agent-skills){:target="_blank"}
+- [🎨 Voice AI, image generation, and web development](https://github.com/lifegenieai/claude-skills){:target="_blank"}
+- [🤝 Multi-agent collaboration skills](https://github.com/GuDaStudio/skills){:target="_blank"}
+- [🐍 Pydantic AI integration](https://github.com/DougTrajano/pydantic-ai-skills){:target="_blank"}
+- [🔮 Skills for DSPy framework](https://github.com/OmidZamani/dspy-skills){:target="_blank"}
+- [🎬 Freeact agent library skills](https://github.com/gradion-ai/freeact-skills){:target="_blank"}
+- [📊 Document editing, data analysis, and project management](https://github.com/ponderous-dustiness314/awesome-claude-skills){:target="_blank"}
+- [✨ Productivity-focused skills](https://github.com/jacintarefined358/awesome-claude-skills){:target="_blank"}
+- [🎯 Skills for specialized capabilities](https://github.com/shajith003/awesome-claude-skills){:target="_blank"}
 
 ### 🎯 Individual Skills by Category
 
 #### 💻 Development & Programming
 
-- [Swift Programming Language reference](https://github.com/kylehughes/the-unofficial-swift-programming-language-skill)
-- [Swift Concurrency Migration guide](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill)
-- [Multi-language code execution](https://github.com/formulahendry/agent-skill-code-runner)
-- [Obsidian.md plugin development](https://github.com/gapmiss/obsidian-plugin-skill)
-- [Stream Coding methodology (10-20x velocity)](https://github.com/frmoretto/stream-coding)
+- [Stream Coding methodology (10-20x velocity)](https://github.com/frmoretto/stream-coding){:target="_blank"}
+- [Multi-language code execution](https://github.com/formulahendry/agent-skill-code-runner){:target="_blank"}
+- [Swift Programming Language reference](https://github.com/kylehughes/the-unofficial-swift-programming-language-skill){:target="_blank"}
+- [Swift Concurrency Migration guide](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill){:target="_blank"}
+- [Obsidian.md plugin development](https://github.com/gapmiss/obsidian-plugin-skill){:target="_blank"}
 
 #### 🔒 Security & Operations
 
-- [Offensive/defensive security operations with sub-agents](https://github.com/gadievron/raptor)
+- [Offensive/defensive security operations with sub-agents](https://github.com/gadievron/raptor){:target="_blank"}
 
 #### 🔧 Integration & Automation
 
-- [Spotify API integration](https://github.com/fabioc-aloha/spotify-skill)
-- [Google Sheets CLI automation](https://github.com/gmickel/sheets-cli)
-- [MIDI file generation from text](https://github.com/tubone24/midi-agent-skill)
-- [Web browser capability for agents](https://github.com/SawyerHood/dev-browser)
-- [Skills for any agent via CLI or MCP](https://github.com/gotalab/skillport)
-- [Load skills using Model Context Protocol](https://github.com/DiscreteTom/agent-skills-mcp)
+- [Web browser capability for agents](https://github.com/SawyerHood/dev-browser){:target="_blank"}
+- [Skills for any agent via CLI or MCP](https://github.com/gotalab/skillport){:target="_blank"}
+- [Load skills using Model Context Protocol](https://github.com/DiscreteTom/agent-skills-mcp){:target="_blank"}
+- [Google Sheets CLI automation](https://github.com/gmickel/sheets-cli){:target="_blank"}
+- [Spotify API integration](https://github.com/fabioc-aloha/spotify-skill){:target="_blank"}
+- [MIDI file generation from text](https://github.com/tubone24/midi-agent-skill){:target="_blank"}
 
 #### 🧠 AI & Context Engineering
 
-- [Context engineering techniques](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
-- [Auto-convert Skills for AGENTS.md](https://github.com/dave1010/skills-to-agents)
-- [System Skill Pattern (skills that remember & improve)](https://github.com/jakedahn/pomodoro)
-- [Mind cloning with LLM skills](https://github.com/yzfly/Mind-Cloning-Engineering)
+- [Context engineering techniques](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering){:target="_blank"}
+- [Mind cloning with LLM skills](https://github.com/yzfly/Mind-Cloning-Engineering){:target="_blank"}
+- [System Skill Pattern (skills that remember & improve)](https://github.com/jakedahn/pomodoro){:target="_blank"}
+- [Auto-convert Skills for AGENTS.md](https://github.com/dave1010/skills-to-agents){:target="_blank"}
 
 ## 🛠️ Tools & Platforms
 
