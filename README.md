@@ -40,14 +40,14 @@ This architecture delivers:
 
 ## 📚 What's Inside?
 
-- [🎁 Ready-to-Use Skills](#-ready-to-use-skills) - Start building with production-ready skill libraries
-- [🛠️ Tools & Platforms](#️-tools--platforms) - Leverage platforms with native Agent Skills support
-- [📖 Learn & Explore](#-learn--explore) - Master the concepts through deep-dive articles
-- [🎬 Videos & Tutorials](#-videos--tutorials) - Watch experts build real-world agent systems
-- [🔬 Research Papers](#-research-papers) - Understand the science behind agent capabilities
-- [❓ Frequently Asked Questions](#-frequently-asked-questions) - Get answers to common questions
-- [💬 Join the Community](#-join-the-community) - Connect with pioneers shaping the ecosystem
-- [🤝 Contributing](#-contributing) - Help shape the future of agent development
+- [Ready-to-Use Skills](#-ready-to-use-skills) - Start building with production-ready skill libraries
+- [Tools & Platforms](#️-tools--platforms) - Leverage platforms with native Agent Skills support
+- [Learn & Explore](#-learn--explore) - Master the concepts through deep-dive articles
+- [Videos & Tutorials](#-videos--tutorials) - Watch experts build real-world agent systems
+- [Research Papers](#-research-papers) - Understand the science behind agent capabilities
+- [Frequently Asked Questions](#-frequently-asked-questions) - Get answers to common questions
+- [Join the Community](#-join-the-community) - Connect with pioneers shaping the ecosystem
+- [Contributing](#-contributing) - Help shape the future of agent development
 
 ## 🎁 Ready-to-Use Skills
 
@@ -60,20 +60,20 @@ This architecture delivers:
 
 #### 🔥 Top Picks
 
-- <a href="https://github.com/anthropics/skills" target="_blank" rel="noopener noreferrer">🏢 Official collection from Anthropic (document editing, data analysis, etc.)</a>
-- <a href="https://github.com/karanb192/awesome-claude-skills" target="_blank" rel="noopener noreferrer">⭐ 50+ verified skills for Claude Code and Claude.ai</a>
-- <a href="https://github.com/shajith003/awesome-claude-skills" target="_blank" rel="noopener noreferrer">🎯 Skills for specialized capabilities</a>
+- <a href="https://github.com/anthropics/skills" target="_blank" rel="noopener noreferrer">Official collection from Anthropic (document editing, data analysis, etc.)</a>
+- <a href="https://github.com/karanb192/awesome-claude-skills" target="_blank" rel="noopener noreferrer">50+ verified skills for Claude Code and Claude.ai</a>
+- <a href="https://github.com/shajith003/awesome-claude-skills" target="_blank" rel="noopener noreferrer">Skills for specialized capabilities</a>
 
 #### 📂 More Collections
 
-- <a href="https://github.com/GuDaStudio/skills" target="_blank" rel="noopener noreferrer">🤝 Multi-agent collaboration skills</a>
-- <a href="https://github.com/DougTrajano/pydantic-ai-skills" target="_blank" rel="noopener noreferrer">🐍 Pydantic AI integration</a>
-- <a href="https://github.com/OmidZamani/dspy-skills" target="_blank" rel="noopener noreferrer">🔮 Skills for DSPy framework</a>
-- <a href="https://github.com/ponderous-dustiness314/awesome-claude-skills" target="_blank" rel="noopener noreferrer">📊 Document editing, data analysis, and project management</a>
-- <a href="https://github.com/hikanner/agent-skills" target="_blank" rel="noopener noreferrer">🗂️ Curated Claude Agent Skills collection</a>
-- <a href="https://github.com/gradion-ai/freeact-skills" target="_blank" rel="noopener noreferrer">🎬 Freeact agent library skills</a>
-- <a href="https://github.com/jacintarefined358/awesome-claude-skills" target="_blank" rel="noopener noreferrer">✨ Productivity-focused skills</a>
-- <a href="https://github.com/lifegenieai/claude-skills" target="_blank" rel="noopener noreferrer">🎨 Voice AI, image generation, and web development</a>
+- <a href="https://github.com/GuDaStudio/skills" target="_blank" rel="noopener noreferrer">Multi-agent collaboration skills</a>
+- <a href="https://github.com/DougTrajano/pydantic-ai-skills" target="_blank" rel="noopener noreferrer">Pydantic AI integration</a>
+- <a href="https://github.com/OmidZamani/dspy-skills" target="_blank" rel="noopener noreferrer">Skills for DSPy framework</a>
+- <a href="https://github.com/ponderous-dustiness314/awesome-claude-skills" target="_blank" rel="noopener noreferrer">Document editing, data analysis, and project management</a>
+- <a href="https://github.com/hikanner/agent-skills" target="_blank" rel="noopener noreferrer">Curated Claude Agent Skills collection</a>
+- <a href="https://github.com/gradion-ai/freeact-skills" target="_blank" rel="noopener noreferrer">Freeact agent library skills</a>
+- <a href="https://github.com/jacintarefined358/awesome-claude-skills" target="_blank" rel="noopener noreferrer">Productivity-focused skills</a>
+- <a href="https://github.com/lifegenieai/claude-skills" target="_blank" rel="noopener noreferrer">Voice AI, image generation, and web development</a>
 
 ### 🎯 Individual Skills by Category
 
@@ -112,28 +112,28 @@ This architecture delivers:
 **The ecosystem is here.** Industry-leading platforms have already integrated Agent Skills - your next agent build starts with choosing the right foundation.
 
 ### 🎨 IDEs & Code Editors
-- [Cursor](https://cursor.com/) - ⚡ AI-powered code editor with native skills integration ([docs](https://cursor.com/docs/context/skills))
-- [Claude Code](https://claude.ai/code) - 🤖 Anthropic's coding tool with first-class skills support
-- [OpenAI Codex](https://developers.openai.com/codex/skills/) - 💻 OpenAI's CLI agent with Agent Skills support
-- [OpenCode](https://opencode.ai/) - 🎯 AI development tool with built-in Agent Skills support
-- [Amp](https://ampcode.com/) - 🚀 Next-gen AI coding assistant
+- [Cursor](https://cursor.com/) - AI-powered code editor with native skills integration ([docs](https://cursor.com/docs/context/skills))
+- [Claude Code](https://claude.ai/code) - Anthropic's coding tool with first-class skills support
+- [OpenAI Codex](https://developers.openai.com/codex/skills/) - OpenAI's CLI agent with Agent Skills support
+- [OpenCode](https://opencode.ai/) - AI development tool with built-in Agent Skills support
+- [Amp](https://ampcode.com/) - Next-gen AI coding assistant
 
 ### 🤖 AI Agent Platforms
-- [GitHub Copilot](https://github.com/features/copilot) - 💙 GitHub's AI coding assistant with Agent Skills support ([docs](https://docs.github.com/copilot/concepts/agents/about-agent-skills), [announcement](https://github.blog/changelog/2025-12-18-github-copilot-now-supports-agent-skills/))
-- [VS Code](https://code.visualstudio.com/) - 💻 Microsoft's editor with Agent Skills in Insiders build
-- [Goose](https://block.github.io/goose/) - 🦆 Open source AI agent framework
-- [Letta](https://www.letta.com/) - 🧠 Build stateful LLM agents with memory
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub's AI coding assistant with Agent Skills support ([docs](https://docs.github.com/copilot/concepts/agents/about-agent-skills), [announcement](https://github.blog/changelog/2025-12-18-github-copilot-now-supports-agent-skills/))
+- [VS Code](https://code.visualstudio.com/) - Microsoft's editor with Agent Skills in Insiders build
+- [Goose](https://block.github.io/goose/) - Open source AI agent framework
+- [Letta](https://www.letta.com/) - Build stateful LLM agents with memory
 
 ### 🔧 Developer Tools & Libraries
 
-- [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - 🔗 Open source agent harness with skills support ([blog](https://blog.langchain.com/using-skills-with-deep-agents/))
-- [IntentKit](https://github.com/crestalnetwork/intentkit) - 🎭 Framework for intent-driven AI agents
-- [vibe-tools](https://github.com/eastlondoner/vibe-tools) - 👥 Give your agent an AI team with advanced skills
-- [openskills](https://github.com/numman-ali/openskills) - 📦 Universal skills loader for any AI agent
-- [Agentica](https://github.com/wrtnlabs/agentica) - 📘 TypeScript AI function calling framework
-- [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex) - 🌐 Privacy-first AI browser automation with Agent Skills
-- [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - 🎬 ClaudeCode Workflow Studio VSCode extension with slash commands
-- [agentigy/skillcheck](https://github.com/agentigy/skillcheck) - 🔒 Security scanner for SKILL.md files - detect vulnerabilities before production
+- [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - Open source agent harness with skills support ([blog](https://blog.langchain.com/using-skills-with-deep-agents/))
+- [IntentKit](https://github.com/crestalnetwork/intentkit) - Framework for intent-driven AI agents
+- [vibe-tools](https://github.com/eastlondoner/vibe-tools) - Give your agent an AI team with advanced skills
+- [openskills](https://github.com/numman-ali/openskills) - Universal skills loader for any AI agent
+- [Agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI function calling framework
+- [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex) - Privacy-first AI browser automation with Agent Skills
+- [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - ClaudeCode Workflow Studio VSCode extension with slash commands
+- [agentigy/skillcheck](https://github.com/agentigy/skillcheck) - Security scanner for SKILL.md files - detect vulnerabilities before production
 
 ## 📖 Learn & Explore
 
@@ -141,33 +141,33 @@ This architecture delivers:
 
 ### 🎓 Getting Started
 
-- [What are skills?](https://support.claude.com/en/articles/12512176-what-are-skills) - 📝 Perfect introduction for beginners
-- [Using skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude) - 🚀 Quick start guide
+- [What are skills?](https://support.claude.com/en/articles/12512176-what-are-skills) - Perfect introduction for beginners
+- [Using skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude) - Quick start guide
 
 ### 🏗️ Building Skills
 
-- [How to create custom skills](https://support.claude.com/en/articles/12512198-creating-custom-skills) - ✍️ Step-by-step authoring guide
-- [Skills API Quickstart](https://docs.claude.com/en/api/skills-guide#creating-a-skill) - 💻 Technical documentation
-- [A2A Protocol: Agent Skills Tutorial](https://a2a-protocol.org/latest/tutorials/python/3-agent-skills-and-card/) - 🤝 How skills work in the Agent-to-Agent protocol
+- [How to create custom skills](https://support.claude.com/en/articles/12512198-creating-custom-skills) - Step-by-step authoring guide
+- [Skills API Quickstart](https://docs.claude.com/en/api/skills-guide#creating-a-skill) - Technical documentation
+- [A2A Protocol: Agent Skills Tutorial](https://a2a-protocol.org/latest/tutorials/python/3-agent-skills-and-card/) - How skills work in the Agent-to-Agent protocol
 
 ### 📰 Featured Articles
 
-- [Equipping agents for the real world with Agent Skills](https://anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - 🎯 The original announcement from Anthropic Engineering
-- [How I Built Agent Skills for Claude Code](https://dev.to/nunc/how-i-built-agent-skills-for-claude-code-oj4) - 🛠️ 8-minute tutorial on building custom Agent Skills from scratch
-- [Claude Skills vs MCP: Complete Guide](https://dev.to/jimquote/claude-skills-vs-mcp-complete-guide-to-token-efficient-ai-agent-architecture-4mkf) - ⚖️ Comparison of Skills and Model Context Protocol architectures
-- [GitHub Copilot Agent Skills: Teaching AI Your Repository Patterns](https://dev.to/qa-leaders/github-copilot-agent-skills-teaching-ai-your-repository-patterns-1oa8) - 🔍 Using Agent Skills with GitHub Copilot
-- [From 2 Hours to 5 Minutes: Automating CDC Transformations](https://medium.com/@jagadeesh.subramani) - 📊 Real-world case study: 95% efficiency gain with Agent Skills
-- [Advent of AI 2025 - Day 14: Agent Skills](https://dev.to/nickytonline/advent-of-ai-2025-day-14-agent-skills-4d48) - 🎄 5-minute guide to Agent Skills with Goose
-- [Agent Skill in VS Code](https://dev.to/thangchung/agent-skill-in-vs-code-77d) - 💻 Using Agent Skills directly in VS Code
-- [Code Sandbox Tech Behind Manus and Claude Agent Skills](https://dev.to/qtalen/exclusive-reveal-code-sandbox-tech-behind-manus-and-claude-agent-skills-ef2) - 🏗️ Deep dive into sandboxing technology
-- [OpenSkills: Adding Claude Skills for Any Agent or IDE](https://dev.to/wakeupmh/openskills-adding-claude-skills-and-superpowers-for-any-agent-or-ide-3j35) - 🚀 Universal skills integration guide
-- [Agent Skills Framework Analysis: Litho Implementation](https://dev.to/sopaco/agent-skills-framework-analysis-litho-implementation-and-design-philosophy-2l91) - 🏛️ Architecture and design patterns analysis
-- [The Great AI Agent Configuration Confusion](https://medium.com/@satinath.mondal/the-great-ai-agent-configuration-confusion-agents-md-skill-md-and-whats-next-12345) - 📋 Understanding configuration standards (SKILL.md, AGENTS.md)
+- [Equipping agents for the real world with Agent Skills](https://anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - The original announcement from Anthropic Engineering
+- [How I Built Agent Skills for Claude Code](https://dev.to/nunc/how-i-built-agent-skills-for-claude-code-oj4) - 8-minute tutorial on building custom Agent Skills from scratch
+- [Claude Skills vs MCP: Complete Guide](https://dev.to/jimquote/claude-skills-vs-mcp-complete-guide-to-token-efficient-ai-agent-architecture-4mkf) - Comparison of Skills and Model Context Protocol architectures
+- [GitHub Copilot Agent Skills: Teaching AI Your Repository Patterns](https://dev.to/qa-leaders/github-copilot-agent-skills-teaching-ai-your-repository-patterns-1oa8) - Using Agent Skills with GitHub Copilot
+- [From 2 Hours to 5 Minutes: Automating CDC Transformations](https://medium.com/@jagadeesh.subramani) - Real-world case study: 95% efficiency gain with Agent Skills
+- [Advent of AI 2025 - Day 14: Agent Skills](https://dev.to/nickytonline/advent-of-ai-2025-day-14-agent-skills-4d48) - 5-minute guide to Agent Skills with Goose
+- [Agent Skill in VS Code](https://dev.to/thangchung/agent-skill-in-vs-code-77d) - Using Agent Skills directly in VS Code
+- [Code Sandbox Tech Behind Manus and Claude Agent Skills](https://dev.to/qtalen/exclusive-reveal-code-sandbox-tech-behind-manus-and-claude-agent-skills-ef2) - Deep dive into sandboxing technology
+- [OpenSkills: Adding Claude Skills for Any Agent or IDE](https://dev.to/wakeupmh/openskills-adding-claude-skills-and-superpowers-for-any-agent-or-ide-3j35) - Universal skills integration guide
+- [Agent Skills Framework Analysis: Litho Implementation](https://dev.to/sopaco/agent-skills-framework-analysis-litho-implementation-and-design-philosophy-2l91) - Architecture and design patterns analysis
+- [The Great AI Agent Configuration Confusion](https://medium.com/@satinath.mondal/the-great-ai-agent-configuration-confusion-agents-md-skill-md-and-whats-next-12345) - Understanding configuration standards (SKILL.md, AGENTS.md)
 
 ### 📰 Industry News & Analysis
 
-- [Anthropic launches enterprise Agent Skills and opens the standard](https://venturebeat.com/ai/anthropic-launches-enterprise-agent-skills-and-opens-the-standard) - 🎯 VentureBeat deep dive: Why Anthropic is giving away its competitive advantage
-- [Agent Skills: Anthropic's Next Bid to Define AI Standards](https://thenewstack.io/agent-skills-anthropics-next-bid-to-define-ai-standards/) - 🖋️ The New Stack analysis of the open standard strategy
+- [Anthropic launches enterprise Agent Skills and opens the standard](https://venturebeat.com/ai/anthropic-launches-enterprise-agent-skills-and-opens-the-standard) - VentureBeat deep dive: Why Anthropic is giving away its competitive advantage
+- [Agent Skills: Anthropic's Next Bid to Define AI Standards](https://thenewstack.io/agent-skills-anthropics-next-bid-to-define-ai-standards/) - The New Stack analysis of the open standard strategy
 
 ## 🎬 Videos & Tutorials
 
@@ -175,32 +175,32 @@ This architecture delivers:
 
 ### 🎓 Beginner-Friendly Tutorials
 
-- [A better way to build agents? Claude Agent Skills Tutorial + Demo](https://www.youtube.com/watch?v=mxZqEduwyFk) - 🎥 11-minute intro: Is Agent Skills the next big standard after MCP?
-- [Claude Code Skills just Built me an AI Agent Team (2026 Guide)](https://www.youtube.com/watch?v=OdtGN27LchE) - 🚀 27-minute beginner guide to building general AI agents
-- [Claude's new 'Agent Skills'](https://www.youtube.com/watch?v=VRzkafNIdgI) - ⚡ 1-minute quick overview - installable "mini-brains"
-- [Agent Skills Review](https://www.youtube.com/watch?v=tGpeWM7gOlA) - 📋 25-second feature highlight
+- [A better way to build agents? Claude Agent Skills Tutorial + Demo](https://www.youtube.com/watch?v=mxZqEduwyFk) - 11-minute intro: Is Agent Skills the next big standard after MCP?
+- [Claude Code Skills just Built me an AI Agent Team (2026 Guide)](https://www.youtube.com/watch?v=OdtGN27LchE) - 27-minute beginner guide to building general AI agents
+- [Claude's new 'Agent Skills'](https://www.youtube.com/watch?v=VRzkafNIdgI) - 1-minute quick overview - installable "mini-brains"
+- [Agent Skills Review](https://www.youtube.com/watch?v=tGpeWM7gOlA) - 25-second feature highlight
 
 ### 🔧 Technical Deep Dives
 
-- [I finally CRACKED Claude Agent Skills (Breakdown For Engineers)](https://www.youtube.com/watch?v=kFpLzCVLA20) - 🛠️ 27-minute engineering breakdown: Skills vs MCP vs Subagents
-- [Claude Agent Skills](https://www.youtube.com/watch?v=9XaprFRNTlc) - 🎯 1-hour deep dive into domain-specific AI expertise
-- [Agent Skills Explained: Why This Changes Everything](https://www.youtube.com/watch?v=Ihoxov5x66k) - 💡 17-minute analysis of why Skills matter for AI development
-- [Claude Agent Skills Tutorial](https://www.youtube.com/watch?v=fOxC44g8vig) - 🎥 Comprehensive implementation tutorial with SKILL.md format
+- [I finally CRACKED Claude Agent Skills (Breakdown For Engineers)](https://www.youtube.com/watch?v=kFpLzCVLA20) - 27-minute engineering breakdown: Skills vs MCP vs Subagents
+- [Claude Agent Skills](https://www.youtube.com/watch?v=9XaprFRNTlc) - 1-hour deep dive into domain-specific AI expertise
+- [Agent Skills Explained: Why This Changes Everything](https://www.youtube.com/watch?v=Ihoxov5x66k) - 17-minute analysis of why Skills matter for AI development
+- [Claude Agent Skills Tutorial](https://www.youtube.com/watch?v=fOxC44g8vig) - Comprehensive implementation tutorial with SKILL.md format
 
 ### 🆚 Comparisons & Analysis
 
-- [Agent Skills vs MCP Which Is Better?](https://www.youtube.com/watch?v=Pc2sB8v9570) - ⚖️ 5-minute comparison: MCP vs Skills architecture
-- [Claude Skills vs MCP: Complete Guide](https://dev.to/jimquote/claude-skills-vs-mcp-complete-guide-to-token-efficient-ai-agent-architecture-4mkf) - 📊 Written guide for token-efficient architectures
+- [Agent Skills vs MCP Which Is Better?](https://www.youtube.com/watch?v=Pc2sB8v9570) - 5-minute comparison: MCP vs Skills architecture
+- [Claude Skills vs MCP: Complete Guide](https://dev.to/jimquote/claude-skills-vs-mcp-complete-guide-to-token-efficient-ai-agent-architecture-4mkf) - Written guide for token-efficient architectures
 
 ### 🏢 Real-World Applications
 
-- [Claude Skills Built Me an AI Agent Army](https://www.youtube.com/watch?v=G-5bInklwRQ) - 🤖 33-minute practical demo: Building digital employees
-- [OpenAI Adds Agent Skills to Codex](https://www.youtube.com/watch?v=MsJzacfjzp8) - 🔥 6-minute first look at Codex with Skills support
-- [Agent Skills AI Real Work](https://www.youtube.com/watch?v=Udneqo7up2M) - 💼 3-minute overview of customizable Claude agents
+- [Claude Skills Built Me an AI Agent Army](https://www.youtube.com/watch?v=G-5bInklwRQ) - 33-minute practical demo: Building digital employees
+- [OpenAI Adds Agent Skills to Codex](https://www.youtube.com/watch?v=MsJzacfjzp8) - 6-minute first look at Codex with Skills support
+- [Agent Skills AI Real Work](https://www.youtube.com/watch?v=Udneqo7up2M) - 3-minute overview of customizable Claude agents
 
 ### 🎤 Conference Talks
 
-- [Don't Build Agents, Build Skills Instead](https://www.youtube.com/watch?v=CEvIs9y1uog) - 🎙️ 16-minute talk by Barry Zhang & Mahesh Murag (Anthropic)
+- [Don't Build Agents, Build Skills Instead](https://www.youtube.com/watch?v=CEvIs9y1uog) - 16-minute talk by Barry Zhang & Mahesh Murag (Anthropic)
 
 > 💡 **Know a great video?** We're actively looking for more video content! Please [contribute](CONTRIBUTING.md) if you find or create relevant tutorials.
 
@@ -210,21 +210,21 @@ This architecture delivers:
 
 ### 🛡️ Security & Safety
 
-- 📄 [Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections](https://arxiv.org/abs/2510.26328) (2025) - Security analysis showing vulnerabilities in Agent Skills markdown files
+- [Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections](https://arxiv.org/abs/2510.26328) (2025) - Security analysis showing vulnerabilities in Agent Skills markdown files
 
 ### 🌐 Interoperability & Standards
 
-- 📄 [A survey of agent interoperability protocols](https://arxiv.org/abs/2505.02279) (2025) - Comprehensive look at MCP, Agent Cards, and more
+- [A survey of agent interoperability protocols](https://arxiv.org/abs/2505.02279) (2025) - Comprehensive look at MCP, Agent Cards, and more
 
 ### 📊 Progressive Disclosure & Transparency
 
-- 📄 [The Effect of Progressive Disclosure in the Transparency of Large Language Models](https://link.springer.com/chapter/10.1007/978-3-031-82633-7_17) (2024) - How progressive disclosure affects LLM transparency
-- 📄 [Disclosures & disclaimers: Investigating the impact of transparency disclosures](https://ojs.aaai.org/index.php/HCOMP/article/view/31597) (2024) - Impact study on agent transparency
+- [The Effect of Progressive Disclosure in the Transparency of Large Language Models](https://link.springer.com/chapter/10.1007/978-3-031-82633-7_17) (2024) - How progressive disclosure affects LLM transparency
+- [Disclosures & disclaimers: Investigating the impact of transparency disclosures](https://ojs.aaai.org/index.php/HCOMP/article/view/31597) (2024) - Impact study on agent transparency
 
 ### 🧠 Skill Learning & Architecture
 
-- 📄 [Reinforcement Learning for Self-Improving Agent with Skill Library](https://arxiv.org/abs/2512.17102) (2024) - Framework for agents to build and maintain skill libraries
-- 📄 [PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction](https://arxiv.org/abs/2510.15863) (2024) - Learning generalizable skills through polymorphic abstraction
+- [Reinforcement Learning for Self-Improving Agent with Skill Library](https://arxiv.org/abs/2512.17102) (2024) - Framework for agents to build and maintain skill libraries
+- [PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction](https://arxiv.org/abs/2510.15863) (2024) - Learning generalizable skills through polymorphic abstraction
 
 > 💡 **Note:** Agent Skills (SKILL.md format) is a recent innovation (2024-2025), so academic research is still emerging. Most papers focus on related concepts like skill learning, tool use, and agent architectures.
 
@@ -273,11 +273,11 @@ Agent Skills introduce new security considerations. Since skills can execute cod
 ### What makes a good Agent Skill?
 
 **Best practices:**
-- ✅ **Single responsibility** - One clear capability per skill
-- ✅ **Progressive detail** - Brief metadata, detailed instructions, extensive resources
-- ✅ **Context-aware** - Include when/why to use (not just how)
-- ✅ **Testable** - Provide example inputs/outputs
-- ✅ **Discoverable** - Descriptive names and rich descriptions
+- **Single responsibility** - One clear capability per skill
+- **Progressive detail** - Brief metadata, detailed instructions, extensive resources
+- **Context-aware** - Include when/why to use (not just how)
+- **Testable** - Provide example inputs/outputs
+- **Discoverable** - Descriptive names and rich descriptions
 
 ### When should I use Agent Skills vs custom tools/functions?
 
@@ -333,10 +333,10 @@ Update skills whenever:
 
 **Shape the ecosystem.** This is a community-driven resource - your contributions help thousands of developers discover and build better agent systems.
 
-- 🔗 Add new skills, tools, or articles
-- 📝 Improve documentation
-- 🐛 Fix broken links
-- 💡 Suggest new sections
+- Add new skills, tools, or articles
+- Improve documentation
+- Fix broken links
+- Suggest new sections
 
 Please read our [contribution guidelines](CONTRIBUTING.md) before submitting.
 
