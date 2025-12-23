@@ -57,77 +57,82 @@ This architecture delivers:
 
 **Multi-skill repositories** with diverse capabilities:
 
-- [🏢 Official collection from Anthropic (document editing, data analysis, etc.)](https://github.com/anthropics/skills){:target="_blank"}
-- [⭐ 50+ verified skills for Claude Code and Claude.ai](https://github.com/karanb192/awesome-claude-skills){:target="_blank"}
-- [🗂️ Curated Claude Agent Skills collection](https://github.com/hikanner/agent-skills){:target="_blank"}
-- [🎨 Voice AI, image generation, and web development](https://github.com/lifegenieai/claude-skills){:target="_blank"}
-- [🤝 Multi-agent collaboration skills](https://github.com/GuDaStudio/skills){:target="_blank"}
-- [🐍 Pydantic AI integration](https://github.com/DougTrajano/pydantic-ai-skills){:target="_blank"}
-- [🔮 Skills for DSPy framework](https://github.com/OmidZamani/dspy-skills){:target="_blank"}
-- [🎬 Freeact agent library skills](https://github.com/gradion-ai/freeact-skills){:target="_blank"}
-- [📊 Document editing, data analysis, and project management](https://github.com/ponderous-dustiness314/awesome-claude-skills){:target="_blank"}
-- [✨ Productivity-focused skills](https://github.com/jacintarefined358/awesome-claude-skills){:target="_blank"}
-- [🎯 Skills for specialized capabilities](https://github.com/shajith003/awesome-claude-skills){:target="_blank"}
+- <a href="https://github.com/anthropics/skills" target="_blank" rel="noopener noreferrer">🏢 Official collection from Anthropic (document editing, data analysis, etc.)</a>
+- <a href="https://github.com/GuDaStudio/skills" target="_blank" rel="noopener noreferrer">🤝 Multi-agent collaboration skills</a>
+- <a href="https://github.com/karanb192/awesome-claude-skills" target="_blank" rel="noopener noreferrer">⭐ 50+ verified skills for Claude Code and Claude.ai</a>
+- <a href="https://github.com/DougTrajano/pydantic-ai-skills" target="_blank" rel="noopener noreferrer">🐍 Pydantic AI integration</a>
+- <a href="https://github.com/OmidZamani/dspy-skills" target="_blank" rel="noopener noreferrer">🔮 Skills for DSPy framework</a>
+- <a href="https://github.com/shajith003/awesome-claude-skills" target="_blank" rel="noopener noreferrer">🎯 Skills for specialized capabilities</a>
+- <a href="https://github.com/ponderous-dustiness314/awesome-claude-skills" target="_blank" rel="noopener noreferrer">📊 Document editing, data analysis, and project management</a>
+- <a href="https://github.com/hikanner/agent-skills" target="_blank" rel="noopener noreferrer">🗂️ Curated Claude Agent Skills collection</a>
+- <a href="https://github.com/gradion-ai/freeact-skills" target="_blank" rel="noopener noreferrer">🎬 Freeact agent library skills</a>
+- <a href="https://github.com/jacintarefined358/awesome-claude-skills" target="_blank" rel="noopener noreferrer">✨ Productivity-focused skills</a>
+- <a href="https://github.com/lifegenieai/claude-skills" target="_blank" rel="noopener noreferrer">🎨 Voice AI, image generation, and web development</a>
 
 ### 🎯 Individual Skills by Category
 
 #### 💻 Development & Programming
 
-- [Stream Coding methodology (10-20x velocity)](https://github.com/frmoretto/stream-coding){:target="_blank"}
-- [Multi-language code execution](https://github.com/formulahendry/agent-skill-code-runner){:target="_blank"}
-- [Swift Programming Language reference](https://github.com/kylehughes/the-unofficial-swift-programming-language-skill){:target="_blank"}
-- [Swift Concurrency Migration guide](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill){:target="_blank"}
-- [Obsidian.md plugin development](https://github.com/gapmiss/obsidian-plugin-skill){:target="_blank"}
+- <a href="https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill" target="_blank" rel="noopener noreferrer">Swift Concurrency Migration guide</a>
+- <a href="https://github.com/kylehughes/the-unofficial-swift-programming-language-skill" target="_blank" rel="noopener noreferrer">Swift Programming Language reference</a>
+- <a href="https://github.com/gapmiss/obsidian-plugin-skill" target="_blank" rel="noopener noreferrer">Obsidian.md plugin development</a>
+- <a href="https://github.com/frmoretto/stream-coding" target="_blank" rel="noopener noreferrer">Stream Coding methodology (10-20x velocity)</a>
+- <a href="https://github.com/formulahendry/agent-skill-code-runner" target="_blank" rel="noopener noreferrer">Multi-language code execution</a>
 
 #### 🔒 Security & Operations
 
-- [Offensive/defensive security operations with sub-agents](https://github.com/gadievron/raptor){:target="_blank"}
+- <a href="https://github.com/gadievron/raptor" target="_blank" rel="noopener noreferrer">Offensive/defensive security operations with sub-agents</a>
 
 #### 🔧 Integration & Automation
 
-- [Web browser capability for agents](https://github.com/SawyerHood/dev-browser){:target="_blank"}
-- [Skills for any agent via CLI or MCP](https://github.com/gotalab/skillport){:target="_blank"}
-- [Load skills using Model Context Protocol](https://github.com/DiscreteTom/agent-skills-mcp){:target="_blank"}
-- [Google Sheets CLI automation](https://github.com/gmickel/sheets-cli){:target="_blank"}
-- [Spotify API integration](https://github.com/fabioc-aloha/spotify-skill){:target="_blank"}
-- [MIDI file generation from text](https://github.com/tubone24/midi-agent-skill){:target="_blank"}
+- <a href="https://github.com/SawyerHood/dev-browser" target="_blank" rel="noopener noreferrer">Web browser capability for agents</a>
+- <a href="https://github.com/gotalab/skillport" target="_blank" rel="noopener noreferrer">Skills for any agent via CLI or MCP</a>
+- <a href="https://github.com/DiscreteTom/agent-skills-mcp" target="_blank" rel="noopener noreferrer">Load skills using Model Context Protocol</a>
+- <a href="https://github.com/gmickel/sheets-cli" target="_blank" rel="noopener noreferrer">Google Sheets CLI automation</a>
+- <a href="https://github.com/fabioc-aloha/spotify-skill" target="_blank" rel="noopener noreferrer">Spotify API integration</a>
+- <a href="https://github.com/tubone24/midi-agent-skill" target="_blank" rel="noopener noreferrer">MIDI file generation from text</a>
 
 #### 🧠 AI & Context Engineering
 
-- [Context engineering techniques](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering){:target="_blank"}
-- [Mind cloning with LLM skills](https://github.com/yzfly/Mind-Cloning-Engineering){:target="_blank"}
-- [System Skill Pattern (skills that remember & improve)](https://github.com/jakedahn/pomodoro){:target="_blank"}
-- [Auto-convert Skills for AGENTS.md](https://github.com/dave1010/skills-to-agents){:target="_blank"}
+- <a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering" target="_blank" rel="noopener noreferrer">Context engineering techniques</a>
+- <a href="https://github.com/dave1010/skills-to-agents" target="_blank" rel="noopener noreferrer">Auto-convert Skills for AGENTS.md</a>
+- <a href="https://github.com/jakedahn/pomodoro" target="_blank" rel="noopener noreferrer">System Skill Pattern (skills that remember & improve)</a>
+- <a href="https://github.com/yzfly/Mind-Cloning-Engineering" target="_blank" rel="noopener noreferrer">Mind cloning with LLM skills</a>
 
 ## 🛠️ Tools & Platforms
 
 **The ecosystem is here.** Industry-leading platforms have already integrated Agent Skills - your next agent build starts with choosing the right foundation.
 
 ### 🎨 IDEs & Code Editors
-
-- [OpenCode](https://opencode.ai/) - 🎯 AI development tool with built-in Agent Skills support
 - [Cursor](https://cursor.com/) - ⚡ AI-powered code editor with native skills integration ([docs](https://cursor.com/docs/context/skills))
-- [Amp](https://ampcode.com/) - 🚀 Next-gen AI coding assistant
 - [Claude Code](https://claude.ai/code) - 🤖 Anthropic's coding tool with first-class skills support
 - [OpenAI Codex](https://developers.openai.com/codex/skills/) - 💻 OpenAI's CLI agent with Agent Skills support
 
-### 🤖 AI Agent Platforms
+- [Cursor](https://cursor.com/) - ⚡ AI-powered code editor with native skills integration ([docs](https://cursor.com/docs/context/skills))
+- [Claude Code](https://claude.ai/code) - 🤖 Anthropic's coding tool with first-class skills support
+- [OpenAI Codex](https://developers.openai.com/codex/skills/) - 💻 OpenAI's CLI agent with Agent Skills support
+- [OpenCode](https://opencode.ai/) - 🎯 AI development tool with built-in Agent Skills support
+- [Amp](https://ampcode.com/) - 🚀 Next-gen AI coding assistant
 
-- [Letta](https://www.letta.com/) - 🧠 Build stateful LLM agents with memory
-- [Goose](https://block.github.io/goose/) - 🦆 Open source AI agent framework
+### 🤖 AI Agent Platforms
 - [GitHub Copilot](https://github.com/features/copilot) - 💙 GitHub's AI coding assistant with Agent Skills support ([docs](https://docs.github.com/copilot/concepts/agents/about-agent-skills), [announcement](https://github.blog/changelog/2025-12-18-github-copilot-now-supports-agent-skills/))
 - [VS Code](https://code.visualstudio.com/) - 💻 Microsoft's editor with Agent Skills in Insiders build
 
+- [GitHub Copilot](https://github.com/features/copilot) - 💙 GitHub's AI coding assistant with Agent Skills support ([docs](https://docs.github.com/copilot/concepts/agents/about-agent-skills), [announcement](https://github.blog/changelog/2025-12-18-github-copilot-now-supports-agent-skills/))
+- [VS Code](https://code.visualstudio.com/) - 💻 Microsoft's editor with Agent Skills in Insiders build
+- [Goose](https://block.github.io/goose/) - 🦆 Open source AI agent framework
+- [Letta](https://www.letta.com/) - 🧠 Build stateful LLM agents with memory
+
 ### 🔧 Developer Tools & Libraries
 
-- [openskills](https://github.com/numman-ali/openskills) - 📦 Universal skills loader for any AI agent
-- [vibe-tools](https://github.com/eastlondoner/vibe-tools) - 👥 Give your agent an AI team with advanced skills
+- [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - 🔗 Open source agent harness with skills support ([blog](https://blog.langchain.com/using-skills-with-deep-agents/))
 - [IntentKit](https://github.com/crestalnetwork/intentkit) - 🎭 Framework for intent-driven AI agents
+- [vibe-tools](https://github.com/eastlondoner/vibe-tools) - 👥 Give your agent an AI team with advanced skills
+- [openskills](https://github.com/numman-ali/openskills) - 📦 Universal skills loader for any AI agent
 - [Agentica](https://github.com/wrtnlabs/agentica) - 📘 TypeScript AI function calling framework
-- [agentigy/skillcheck](https://github.com/agentigy/skillcheck) - 🔒 Security scanner for SKILL.md files - detect vulnerabilities before production
 - [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex) - 🌐 Privacy-first AI browser automation with Agent Skills
 - [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - 🎬 ClaudeCode Workflow Studio VSCode extension with slash commands
-- [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - 🔗 Open source agent harness with skills support ([blog](https://blog.langchain.com/using-skills-with-deep-agents/))
+- [agentigy/skillcheck](https://github.com/agentigy/skillcheck) - 🔒 Security scanner for SKILL.md files - detect vulnerabilities before production
 
 ## 📖 Learn & Explore
 
@@ -141,7 +146,9 @@ This architecture delivers:
 ### 🏗️ Building Skills
 
 - [How to create custom skills](https://support.claude.com/en/articles/12512198-creating-custom-skills) - ✍️ Step-by-step authoring guide
-- [Skills API Quickstart](https://docs.claude.com/en/api/skills-guide#creating-a-skill) - 💻 Technical documentation- [A2A Protocol: Agent Skills Tutorial](https://a2a-protocol.org/latest/tutorials/python/3-agent-skills-and-card/) - 🤝 How skills work in the Agent-to-Agent protocol
+- [Skills API Quickstart](https://docs.claude.com/en/api/skills-guide#creating-a-skill) - 💻 Technical documentation
+- [A2A Protocol: Agent Skills Tutorial](https://a2a-protocol.org/latest/tutorials/python/3-agent-skills-and-card/) - 🤝 How skills work in the Agent-to-Agent protocol
+
 ### 📰 Featured Articles
 
 - [Equipping agents for the real world with Agent Skills](https://anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - 🎯 The original announcement from Anthropic Engineering
