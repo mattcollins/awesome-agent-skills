@@ -129,8 +129,8 @@ This architecture delivers:
 **Frameworks and utilities for building and loading skills.**
 
 - [LangChain Multi-Agent Skills](https://docs.langchain.com/oss/python/langchain/multi-agent/skills) - Official documentation on implementing the skills pattern in LangChain
-- [agentigy/skillcheck](https://github.com/agentigy/skillcheck) - Security scanner for SKILL.md files - detect vulnerabilities before production
-- [openskills](https://github.com/numman-ali/openskills) - Universal skills loader for any AI agent
+- [SkillCheck](https://github.com/agentigy/skillcheck) - Security scanner for SKILL.md files - detect vulnerabilities before production
+- [OpenSkills](https://github.com/numman-ali/openskills) - Universal skills loader for any AI agent
 - [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) - Open source agent harness with skills support
 - [IntentKit](https://github.com/crestalnetwork/intentkit) - Framework for intent-driven AI agents
 - [Agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI function calling framework
