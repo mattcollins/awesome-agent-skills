@@ -85,9 +85,9 @@ This architecture delivers:
 **Where can you use Agent Skills today?**
 
 - [Cursor](https://cursor.com/) - AI-powered code editor with native skills integration ([docs](https://cursor.com/docs/context/skills))
-- [Claude Code](https://claude.ai/code) - Anthropic's coding tool with first-class skills support ([docs](https://support.claude.com/en/articles/12512180-using-skills-in-claude))
+- [Claude Code](https://claude.ai/code) - Anthropic's coding tool with first-class skills support ([docs](https://code.claude.com/docs/en/skills))
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub's AI coding assistant with Agent Skills support ([docs](https://docs.github.com/copilot/concepts/agents/about-agent-skills))
-- [VS Code](https://code.visualstudio.com/) - Microsoft's editor with Agent Skills in Insiders build ([docs](https://code.visualstudio.com/updates/v1_107#_reuse-your-claude-skills-experimental))
+- [VS Code](https://code.visualstudio.com/) - Microsoft's editor with Agent Skills in Insiders build ([docs](https://code.visualstudio.com/docs/copilot/customization/agent-skills))
 - [OpenAI Codex](https://developers.openai.com/codex/skills/) - OpenAI's CLI agent with Agent Skills support ([docs](https://developers.openai.com/codex/skills/))
 - [OpenCode](https://opencode.ai/) - AI development tool with built-in Agent Skills support ([docs](https://opencode.ai/docs/skills/))
 - [Amp](https://ampcode.com/) - Next-gen AI coding assistant ([docs](https://ampcode.com/manual#agent-skills))
