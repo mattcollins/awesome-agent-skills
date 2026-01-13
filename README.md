@@ -1,7 +1,7 @@
 # 🎯 Awesome Agent Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <div align="center">
-  <img src="assets/social-preview.png" alt="Awesome Agent Skills - The definitive resource for Agent Skills" width="100%">
+  <img src="assets/cover-image.png" alt="Awesome Agent Skills - The definitive resource for Agent Skills" width="100%">
 </div>
 
 <br>
