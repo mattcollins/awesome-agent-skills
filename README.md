@@ -84,16 +84,16 @@ This architecture delivers:
 
 **Where can you use Agent Skills today?**
 
-- [Cursor](https://cursor.com/) - AI-powered code editor with native skills integration ([docs](https://cursor.com/docs/context/skills))
 - [Claude Code](https://claude.ai/code) - Anthropic's coding tool with first-class skills support ([docs](https://code.claude.com/docs/en/skills))
-- [GitHub Copilot](https://github.com/features/copilot) - GitHub's AI coding assistant with Agent Skills support ([docs](https://docs.github.com/copilot/concepts/agents/about-agent-skills))
-- [VS Code](https://code.visualstudio.com/) - Microsoft's editor with Agent Skills in Insiders build ([docs](https://code.visualstudio.com/docs/copilot/customization/agent-skills))
 - [OpenAI Codex](https://developers.openai.com/codex/skills/) - OpenAI's CLI agent with Agent Skills support ([docs](https://developers.openai.com/codex/skills/))
+- [Gemini CLI](https://geminicli.com) - Google's solution for bringing Gemini into the terminal ([docs](https://geminicli.com/docs/cli/skills/))
+- [Cursor](https://cursor.com/) - AI-powered code editor with native skills integration ([docs](https://cursor.com/docs/context/skills))
+- [VS Code](https://code.visualstudio.com/) - Microsoft's editor with Agent Skills in Insiders build ([docs](https://code.visualstudio.com/docs/copilot/customization/agent-skills))
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub's AI coding assistant with Agent Skills support ([docs](https://docs.github.com/copilot/concepts/agents/about-agent-skills))
 - [OpenCode](https://opencode.ai/) - AI development tool with built-in Agent Skills support ([docs](https://opencode.ai/docs/skills/))
 - [Amp](https://ampcode.com/) - Next-gen AI coding assistant ([docs](https://ampcode.com/manual#agent-skills))
 - [Goose](https://block.github.io/goose/) - Open source AI agent framework ([docs](https://block.github.io/goose/extensions))
 - [Letta](https://www.letta.com/) - Build stateful LLM agents with memory ([docs](https://docs.letta.com/letta-code))
-- [Gemini CLI](https://geminicli.com) - Google's solution for bringing Gemini into the terminal ([docs](https://geminicli.com/docs/cli/skills/))
 
 ### 📦 Ready-to-Use Skill Libraries
 
